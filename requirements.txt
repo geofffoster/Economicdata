@@ -1,0 +1,6 @@
+numpy
+pandas
+yfinance
+cufflinks
+wbgapi
+streamlit
